@@ -16,3 +16,7 @@
 カレントディレクトリに index.html / style.css / app.js を生成してください。
 vanilla JavaScript（フレームワーク不使用）、モバイル対応、日本語UI。
 完成したら README.md も作成してください。
+
+---
+## 2026-04-15 10:39:41 (update)
+ドライブを初期化して
